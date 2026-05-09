@@ -77,6 +77,14 @@ Focused on developing scalable AI systems, automation workflows, and real-world 
 
 # 🚀 Projects
 
+##  ⛓️ Claude Skill Set
+
+- Built a custom Claude Skill implementing the RCTFCE prompt engineering framework for structured AI prompt generation.
+
+🔗 [View Project Repository](https://github.com/Gedendhar-5/master-prompt-formula)
+
+---
+
 ## 🧠 AI Career Copilot
 
 RAG-based AI assistant for roadmap generation, semantic search, and resume analysis using LLMs and FAISS.

@@ -38,7 +38,7 @@ Focused on developing scalable AI systems, automation workflows, and real-world 
 
 <img src="https://skillicons.dev/icons?i=python,aws,docker,flask,git"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/LLMs-121013?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-24243e?style=for-the-badge"/>
@@ -46,20 +46,23 @@ Focused on developing scalable AI systems, automation workflows, and real-world 
 <img src="https://img.shields.io/badge/RLHF-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Transformers-FF4B4B?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
 </div>
 

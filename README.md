@@ -89,7 +89,7 @@ RAG-based AI assistant for roadmap generation, semantic search, and resume analy
 
 LLM-powered autonomous observability system for anomaly detection, RCA, and self-healing infrastructure orchestration.
 
-🔗 `Add Project Link Here`
+🔗  [View Project Repository](https://github.com/Gedendhar-5/ai-devops-copilot)
 
 ---
 
@@ -97,7 +97,7 @@ LLM-powered autonomous observability system for anomaly detection, RCA, and self
 
 LLM-powered log analysis chatbot using Groq API, Llama 3, LangChain, and FastAPI for automated log classification, RCA, and fix recommendation.
 
-🔗 `Add Project Link Here`
+🔗 [View Project Repository](https://github.com/Gedendhar-5/AI-Log-Analyzer)
 
 ---
 
@@ -105,7 +105,7 @@ LLM-powered log analysis chatbot using Groq API, Llama 3, LangChain, and FastAPI
 
 AI-powered document redaction system for automated PII masking, identity protection, and risk-based safety scoring of leaked documents..
 
-🔗 `Add Project Link Here`
+🔗 [View Project Repository](https://github.com/Gedendhar-5/journalist-source-protector-document--redaction)
 
 ---
 
@@ -113,7 +113,7 @@ AI-powered document redaction system for automated PII masking, identity protect
 
 ML-powered Formula 1 prediction system using real-time qualifying data, weather telemetry, and driver performance analytics for Grand Prix outcome forecasting.
 
-🔗 `Add Project Link Here`
+🔗  [View Project Repository](https://github.com/Gedendhar-5/-f1-race-prediction-ml)
 
 ---
 

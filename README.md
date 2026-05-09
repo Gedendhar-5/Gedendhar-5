@@ -81,7 +81,7 @@ Focused on developing scalable AI systems, automation workflows, and real-world 
 
 RAG-based AI assistant for roadmap generation, semantic search, and resume analysis using LLMs and FAISS.
 
-🔗 `[ AI Career Copilot](https://github.com/Gedendhar-5/AI-Career-Copilot)`
+🔗 `[AI Career Copilot](Gedendhar-5/AI-Career-Copilot)`
 
 ---
 

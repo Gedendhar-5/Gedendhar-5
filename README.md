@@ -117,5 +117,6 @@ ML-powered dashboard for market prediction, sentiment analysis, and financial vi
 - AWS Certified Solutions Architect – Associate
 - Python Programming – Google | Coursera
 - Agile Methodology Virtual Experience – JPMorgan Chase
+- Claude in Actions -Claude
 
 ---

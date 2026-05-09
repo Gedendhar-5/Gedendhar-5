@@ -29,23 +29,7 @@
 
 # 🧠 About Me
 
-```yaml
-Name: Gendhar S
-
-Role:
-  AI/ML Engineer
-  Python Developer
-
-Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Quantitative Finance
-  - Automation
-  - Cloud Technologies
-
-Mission:
-  Building intelligent and scalable AI systems.
-```
+Passionate AI/ML Engineer focused on building intelligent systems, machine learning solutions, and quantitative finance applications using Python and modern AI technologies. Interested in creating scalable, real-world AI products with strong analytical and problem-solving approaches.
 
 ---
 

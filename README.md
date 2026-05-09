@@ -4,12 +4,12 @@
 
 ### AI/ML Engineer • Python Developer • AWS Certified
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+%7C+AI%2FML+%7C+LLMs;RAG+%7C+NLP+%7C+AWS;Building+Intelligent+AI+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+%7C+AI%2FML+%7C+LLMs;RAG+%7C+NLP+%7C+AWS;Building+Scalable+AI+Applications"/>
 
 <br/>
 
 <a href="https://portfolio-gedendhar-s.vercel.app/#home">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Gedendhar-5">
@@ -26,9 +26,9 @@
 
 # 🧠 About Me
 
-AI/ML Engineer with experience in building scalable AI applications, NLP pipelines, RAG systems, and cloud-based intelligent solutions using Python and AWS.
+AI/ML Engineer with experience in building intelligent applications using Python, LLMs, NLP, RAG architectures, OCR pipelines, and AWS cloud technologies.
 
-Focused on solving real-world problems through Machine Learning, LLMs, Automation, and Data Processing Systems.
+Focused on developing scalable AI systems, automation workflows, and real-world machine learning applications.
 
 ---
 
@@ -36,23 +36,51 @@ Focused on solving real-world problems through Machine Learning, LLMs, Automatio
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,aws,docker,flask,git"/>
+## 👨‍💻 Programming & Backend
+
+<img src="https://skillicons.dev/icons?i=python,flask,aws,docker,git"/>
 
 <br/><br/>
+
+## 🤖 AI / ML / LLM
 
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-121013?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-24243e?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RLHF-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Transformers-FF4B4B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
 
 <br/><br/>
 
+## 🧰 Libraries & Tools
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
+
+<br/><br/>
+
+## 🚀 AI Tools & Platforms
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-121013?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plugins-24243e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP_Workflows-0A66C2?style=for-the-badge"/>
+
+<br/><br/>
+
+## ☁️ Deployment & Cloud
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
 </div>
 
@@ -62,19 +90,33 @@ Focused on solving real-world problems through Machine Learning, LLMs, Automatio
 
 ## 🧠 AI Career Copilot
 
-RAG-based AI career assistant that provides roadmap generation, semantic search, resume matching, and intelligent career guidance using LLMs and FAISS.
+RAG-based AI assistant for career guidance, roadmap generation, and resume analysis using LLMs and semantic search.
+
+🔗 Project Link : `Add Your GitHub Link Here`
 
 ---
 
 ## 🔐 AI-Powered Document Redaction System
 
-Built an automated AI pipeline for detecting and masking sensitive information from scanned documents using OCR, NLP, and Transformers.
+Built an automated AI pipeline for detecting and masking sensitive information using OCR, NLP, and Transformers.
+
+🔗 Project Link : `Add Your GitHub Link Here`
 
 ---
 
 ## 📊 AI Options Trading Analytics Dashboard
 
-Developed an ML-powered analytics dashboard for market trend prediction, sentiment analysis, and real-time financial visualization.
+Developed an ML-powered dashboard for market prediction, sentiment analysis, and financial visualization.
+
+🔗 Project Link : `Add Your GitHub Link Here`
+
+---
+
+## ⚡ NLP Pipeline Optimization
+
+Worked on scalable NLP and backend processing pipelines for automation and intelligent data workflows.
+
+🔗 Project Link : `Add Your GitHub Link Here`
 
 ---
 
@@ -131,7 +173,7 @@ Developed an ML-powered analytics dashboard for market trend prediction, sentime
 
 <div align="center">
 
-### ⚡ Building Intelligent Systems With AI ⚡
+### ⚡ BUILDING REAL-WORLD AI SYSTEMS ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 

@@ -1,9 +1,9 @@
 <div align="center">
 
 # ⚡ GENDHAR S
-### AI/ML Engineer • Full Stack Developer • Quantitative Finance Enthusiast
+### AI/ML Engineer • Python Developer • Quant Finance Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Futuristic+AI+Systems;Machine+Learning+%7C+Quant+Finance+%7C+Cloud;Full+Stack+Developer+%7C+Problem+Solver;Always+Learning+New+Technologies+⚡"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+%7C+Python;Quantitative+Finance+%7C+Automation;Building+Futuristic+Intelligent+Systems"/>
 
 <br/>
 
@@ -19,14 +19,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/><br/>
 
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=AI%20ENGINEER&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=AI%20ENGINEER&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
@@ -36,219 +31,80 @@
 
 ```yaml
 Name: Gendhar S
-Role: AI/ML Engineer & Full Stack Developer
-Location: India
 
-Focus Areas:
+Role:
+  AI/ML Engineer
+  Python Developer
+
+Focus:
   - Artificial Intelligence
   - Machine Learning
   - Quantitative Finance
-  - Full Stack Development
-  - Cloud Engineering
-  - Automation Systems
-
-Currently Learning:
-  - Generative AI
-  - LLM Engineering
-  - Advanced ML Systems
-  - AI Infrastructure
+  - Automation
+  - Cloud Technologies
 
 Mission:
-  Building futuristic intelligent systems
-  that solve real-world problems.
+  Building intelligent and scalable AI systems.
 ```
 
 ---
 
 # 🌐 Portfolio
 
-## 🚀 Live Website
+### 🚀 Live Website
 
-### 🔗 https://portfolio-gedendhar-s.vercel.app/#home
+## 🔗 https://portfolio-gedendhar-s.vercel.app/#home
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Skills
 
 <div align="center">
 
-# 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,sql"/>
+<br/><br/>
 
-<br/>
-<br/>
-
-# ⚙️ Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-
-<br/>
-<br/>
-
-# 🔥 Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
-
-<br/>
-<br/>
-
-# 🤖 AI / Machine Learning
-
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-00C7B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RLHF-8A2BE2?style=for-the-badge"/>
 
-<br/>
-<br/>
+<br/><br/>
 
-# ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,firebase,vercel,git,github"/>
+<img src="https://img.shields.io/badge/Quantitative_Finance-121013?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RLHF-24243e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-<!-- ====================================================== -->
-<!-- ================= ADD PROJECTS HERE ================== -->
-<!-- ====================================================== -->
+## 🧠 AI Options Trading Analysis Dashboard
 
-# 🧠 Project 01 — [Your Project Name]
-
-## 🔹 Overview
-
-Describe your project here.
-
-## 🔹 Features
-
-- AI Integration
-- Real-time Dashboard
-- Analytics
-- Authentication
-- API Integration
-
-## 🔹 Tech Stack
-
-```bash
-React • Python • Node.js • AWS • Machine Learning
-```
-
-## 🔹 GitHub Repository
-
-```bash
-https://github.com/yourusername/project-name
-```
-
-## 🔹 Live Demo
-
-```bash
-https://yourproject.vercel.app
-```
+Built an AI-powered quantitative finance dashboard for analyzing options trading data, predicting option prices, and visualizing market trends in real time.
 
 ---
 
-# ⚡ Project 02 — [Your Project Name]
+## ⚡ AI-Based Prediction System
 
-## 🔹 Overview
-
-Describe your project here.
-
-## 🔹 Features
-
-- Quantitative Analytics
-- Prediction System
-- Cloud Deployment
-- Visualization
-
-## 🔹 Tech Stack
-
-```bash
-Next.js • Flask • TensorFlow • PostgreSQL
-```
-
-## 🔹 GitHub Repository
-
-```bash
-https://github.com/yourusername/project-name
-```
-
-## 🔹 Live Demo
-
-```bash
-https://yourproject.vercel.app
-```
+Developed an intelligent machine learning system capable of processing financial and analytical datasets for predictive insights and decision-making.
 
 ---
 
-# 🚀 Project 03 — [Your Project Name]
+## 🤖 Intelligent Automation Platform
 
-## 🔹 Overview
-
-Describe your project here.
-
-## 🔹 Features
-
-- Automation
-- AI Processing
-- REST APIs
-- Secure Backend
-
-## 🔹 Tech Stack
-
-```bash
-Python • React • OpenAI API • Docker
-```
-
-## 🔹 GitHub Repository
-
-```bash
-https://github.com/yourusername/project-name
-```
+Created automation workflows integrated with AI models to streamline data processing and improve operational efficiency.
 
 ---
 
-# 🌌 Experience & Interests
+## 📊 Quantitative Finance Analytics
 
-```python
-class Engineer:
-
-    def __init__(self):
-        self.name = "Gendhar S"
-
-        self.skills = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Full Stack Development",
-            "Quantitative Finance",
-            "Cloud Computing",
-            "Automation"
-        ]
-
-    def future_goal(self):
-        return "Building scalable AI-powered systems 🚀"
-
-
-me = Engineer()
-
-print(me.future_goal())
-```
-
----
-
-# 🏆 Achievements
-
-- 🚀 Built AI-powered intelligent applications
-- ⚡ Developed scalable full-stack systems
-- 📊 Worked on quantitative finance dashboards
-- ☁️ Experienced in cloud-native deployments
-- 🤖 Passionate about Generative AI & LLMs
-- 🔥 Strong problem-solving & analytical thinking
+Worked on financial analytics systems focused on market behavior, statistical analysis, and data-driven forecasting techniques.
 
 ---
 
@@ -260,35 +116,6 @@ print(me.future_goal())
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# ⚡ Current Focus
-
-<div align="center">
-
-| 🚀 Area | ⚡ Status |
-|---|---|
-| Artificial Intelligence | Learning & Building |
-| Generative AI | Exploring |
-| LLM Engineering | Improving |
-| Quantitative Finance | Researching |
-| Full Stack Systems | Building |
-| Cloud Architecture | Deploying |
-
 </div>
 
 ---
@@ -297,7 +124,7 @@ print(me.future_goal())
 
 <div align="center">
 
-> ### “Technology should not just solve problems — it should create futuristic experiences.”
+> “AI is not just about models — it’s about building intelligent systems that create impact.”
 
 </div>
 
@@ -315,10 +142,6 @@ print(me.future_goal())
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://github.com/">
   <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -327,24 +150,10 @@ print(me.future_goal())
 
 ---
 
-# 🧠 Fun Fact
-
-```javascript
-while(!success){
-    tryAgain();
-    learn();
-    improve();
-}
-```
-
----
-
 <div align="center">
 
-# ⚡ CODE • CREATE • SCALE • REPEAT ⚡
+# ⚡ BUILD • LEARN • SCALE ⚡
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
 
 </div>

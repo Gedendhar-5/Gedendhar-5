@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ GEDENDHAR SIVAKUMAR
+# ⚡GEDENDHAR SIVAKUMAR
 
 ### AI/ML Engineer • Python Developer • AWS Certified
 

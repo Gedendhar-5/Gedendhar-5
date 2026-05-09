@@ -85,17 +85,33 @@ RAG-based AI assistant for roadmap generation, semantic search, and resume analy
 
 ---
 
-## 🔐 AI-Powered Document Redaction System
+## 🔐 AI-Devops Co Pilot
 
-Automated AI pipeline for detecting and masking sensitive information using OCR, NLP, and Transformers.
+LLM-powered autonomous observability system for anomaly detection, RCA, and self-healing infrastructure orchestration.
 
 🔗 `Add Project Link Here`
 
 ---
 
-## 📊 AI Options Trading Analytics Dashboard
+## 📊 AI Log Analyzer
 
-ML-powered dashboard for market prediction, sentiment analysis, and financial visualization.
+LLM-powered log analysis chatbot using Groq API, Llama 3, LangChain, and FastAPI for automated log classification, RCA, and fix recommendation.
+
+🔗 `Add Project Link Here`
+
+---
+
+## 📊  Journalist Source Protector — AI Redaction System
+
+AI-powered document redaction system for automated PII masking, identity protection, and risk-based safety scoring of leaked documents..
+
+🔗 `Add Project Link Here`
+
+---
+
+## 📊 F1 Race Prediction ML Model
+
+ML-powered Formula 1 prediction system using real-time qualifying data, weather telemetry, and driver performance analytics for Grand Prix outcome forecasting.
 
 🔗 `Add Project Link Here`
 

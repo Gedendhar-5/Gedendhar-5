@@ -48,6 +48,13 @@ Focused on developing scalable AI systems, automation workflows, and real-world 
 
 <br/>
 
+<img src="https://img.shields.io/badge/AI_Agents-121013?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plugins-24243e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP_Workflows-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge"/>

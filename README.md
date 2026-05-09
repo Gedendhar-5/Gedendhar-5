@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=GENDHAR%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=GEDENDHAR SIVAKUMAR%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # ⚡ AI/ML ENGINEER • PYTHON DEVELOPER • AWS CERTIFIED
 

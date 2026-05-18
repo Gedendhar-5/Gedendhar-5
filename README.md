@@ -77,6 +77,12 @@ Focused on developing scalable AI systems, automation workflows, and real-world 
 
 # 🚀 Projects
 
+## 📊 AI-Powered BI Dashboard
+
+Upload any Excel or CSV and get a full data‑analyst job done in one AI tool: clean data, dashboards, insights, and forecasts in a single click.
+
+🔗 [View Project Repository](https://github.com/Gedendhar-5/AI-Powered-BI-Dashboard)
+
 ##  ⛓️ Claude Skill Set
 
 - Built a custom Claude Skill implementing the RCTFCE prompt engineering framework for structured AI prompt generation.

@@ -22,7 +22,7 @@
 
 ### 🧠 Profile Overview
 
-Results-driven **AI/ML Engineer** and **Python Developer** specializing in enterprise-grade **Generative AI systems**, **Multi-Agent workflows**, and robust **NLP/RAG architectures**. Experienced in deploying containerized solutions on **AWS and Render cloud infrastructures**, building high-throughput document intelligence pipelines, and securing LLM applications through adversarial red-teaming.
+Results-driven **AI/ML Engineer** and **Python Developer** specializing in enterprise-grade **Generative AI systems**, **Multi-Agent workflows**, and robust **NLP/RAG architectures**. Experienced in deploying containerized solutions on **AWS, Render, Vercel, and Streamlit Cloud infrastructures**, building high-throughput document intelligence pipelines, and securing LLM applications through adversarial red-teaming.
 
 </div>
 
@@ -59,9 +59,11 @@ Results-driven **AI/ML Engineer** and **Python Developer** specializing in enter
 ![](https://img.shields.io/badge/OpenCV-Image_Preprocessing-5C3EE8?style=for-the-badge)
 ![](https://img.shields.io/badge/MCP_Workflows-Model_Context_Protocol-3F4F75?style=for-the-badge)
 
-### **☁️ Cloud & Infrastructure**
+### **☁️ Deployment & Cloud Hosting**
 ![](https://img.shields.io/badge/AWS-Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Vercel-Deployment_Platform-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Render-Cloud_Hosting-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![](https://img.shields.io/badge/Streamlit_Cloud-App_Hosting-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **🚀 AI Development Partners & Large Language Models**
@@ -181,7 +183,7 @@ graph LR
 *   🔗 **[View Project Repository](https://github.com/Gedendhar-5/master-prompt-formula)**
 
 ```mermaid
-graph TD
+graph LR
     Raw["User Request"] --> RCTFCE["📐 Apply RCTFCE Engine"]
     RCTFCE --> System["📝 Compile System Message"]
     System --> Inference["🤖 Anthropic Claude Execution"]

@@ -316,6 +316,19 @@ graph LR
 
 <div align="center">
 
+### **📈 Core Metrics & Repository Stats (Live Fallback)**
+
+| Metric | Value | Code Distribution |
+| :--- | :--- | :--- |
+| 🗄️ **Public Repositories** | **10** | 🐍 **Python**: `████████████████████ 100.0%` |
+| 👥 **Followers** | **0** | ⚙️ **Markup/Markdown**: `0.0%` |
+| 🤝 **Following** | **0** | 🌐 **Primary Domain**: Generative AI / LLMOps / Backend |
+
+<br/>
+
+### **📡 Live Dynamic Cards**
+*(Note: May not render in local markdown viewers without internet access)*
+
 <table border="0">
   <tr>
     <td>

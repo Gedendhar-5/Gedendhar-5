@@ -1,152 +1,205 @@
 <div align="center">
 
-# ⚡GEDENDHAR SIVAKUMAR
+# ⚡ GEDENDHAR SIVAKUMAR
 
-### AI/ML Engineer • Python Developer • AWS Certified
+### **AI/ML Engineer • Python Developer • AWS Certified**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+%7C+AI%2FML+%7C+LLMs;RAG+%7C+NLP+%7C+AWS;Building+Scalable+AI+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Python+%7C+AI%2FML+%7C+Generative+AI;Autonomous+Agents+%7C+LangGraph+%7C+RAG;NLP+%7C+Cloud+Architecture+%7C+AWS;Building+High-Performance+Intelligent+Systems"/>
 
 <br/>
 
-<a href="https://portfolio-gedendhar-s.vercel.app/#home">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://portfolio-gedendhar-s.vercel.app/#home" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Gedendhar-5" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/gedendhar-s-23b22a197/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Gedendhar-5">
-<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/gedendhar-s-23b22a197/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🧠 Profile Overview
+
+Results-driven **AI/ML Engineer** and **Python Developer** specializing in enterprise-grade **Generative AI systems**, **Multi-Agent workflows**, and robust **NLP/RAG architectures**. Experienced in deploying containerized solutions on **AWS and Render cloud infrastructures**, building high-throughput document intelligence pipelines, and securing LLM applications through adversarial red-teaming.
 
 </div>
 
----
-
-# 🧠 About Me
-
-AI/ML Engineer with experience in building intelligent applications using Python, LLMs, NLP, RAG architectures, OCR pipelines, and AWS cloud technologies.
-
-Focused on developing scalable AI systems, automation workflows, and real-world machine learning applications.
+<br/>
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Technological Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,aws,docker,flask,git"/>
+### **💻 Core Tech Stack**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,fastapi,flask,git,github,postgres,mongodb,vscode,render" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/LLMs-121013?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-24243e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RLHF-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-FF4B4B?style=for-the-badge"/>
+### **🤖 Generative AI & Orchestration**
+![](https://img.shields.io/badge/LangGraph-Multi--Agent_Swarms-1C3C3C?style=for-the-badge)
+![](https://img.shields.io/badge/LangChain-Chains_%26_LCEL-2C5E8A?style=for-the-badge)
+![](https://img.shields.io/badge/RAG_Architecture-Dense_Retrieval-4A154B?style=for-the-badge)
+![](https://img.shields.io/badge/LLMs-Llama_3.3_/_GPT--4-FF5722?style=for-the-badge)
 
-<br/>
+### **🧠 AI/ML & Natural Language Processing**
+![](https://img.shields.io/badge/NLP-Tokenizers_%26_Embeddings-8A2BE2?style=for-the-badge)
+![](https://img.shields.io/badge/Transformers-PyTorch_/_HuggingFace-FF4B4B?style=for-the-badge)
+![](https://img.shields.io/badge/RLHF-Feedback_Loops-0A66C2?style=for-the-badge)
+![](https://img.shields.io/badge/Prompt_Engineering-Optimization-FF6F00?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/AI_Agents-121013?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plugins-24243e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP_Workflows-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
+### **📂 Vector Search & Document Intelligence**
+![](https://img.shields.io/badge/FAISS-Index_Vector_Search-0467DF?style=for-the-badge)
+![](https://img.shields.io/badge/Tesseract_OCR-Document_Extraction-4285F4?style=for-the-badge)
+![](https://img.shields.io/badge/OpenCV-Image_Preprocessing-5C3EE8?style=for-the-badge)
+![](https://img.shields.io/badge/MCP_Workflows-Model_Context_Protocol-3F4F75?style=for-the-badge)
 
-<br/>
-
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+### **☁️ Cloud & Infrastructure**
+![](https://img.shields.io/badge/AWS-Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Render-Cloud_Hosting-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
----
-
-# 🚀 Projects
-
-## 📊 AI-Powered BI Dashboard
-
-Upload any Excel or CSV and get a full data‑analyst job done in one AI tool: clean data, dashboards, insights, and forecasts in a single click.
-
-🔗 [View Project Repository](https://github.com/Gedendhar-5/AI-Powered-BI-Dashboard)
-
-##  ⛓️ Claude Skill Set
-
-- Built a custom Claude Skill implementing the RCTFCE prompt engineering framework for structured AI prompt generation.
-
-🔗 [View Project Repository](https://github.com/Gedendhar-5/master-prompt-formula)
+<br/>
 
 ---
 
-## 🧠 AI Career Copilot
+## 🚀 Featured Engineering Projects
 
-RAG-based AI assistant for roadmap generation, semantic search, and resume analysis using LLMs and FAISS.
+<br/>
 
-🔗 [View Project Repository](https://github.com/Gedendhar-5/AI-Career-Copilot)
-
----
-
-## 🔐 AI-Devops Co Pilot
-
-LLM-powered autonomous observability system for anomaly detection, RCA, and self-healing infrastructure orchestration.
-
-🔗  [View Project Repository](https://github.com/Gedendhar-5/ai-devops-copilot)
-
----
-
-## 📊 AI Log Analyzer
-
-LLM-powered log analysis chatbot using Groq API, Llama 3, LangChain, and FastAPI for automated log classification, RCA, and fix recommendation.
-
-🔗 [View Project Repository](https://github.com/Gedendhar-5/AI-Log-Analyzer)
+### 🛡️ 1. GovAgent — Autonomous AI Compliance Auditor
+> **Autonomous governance multi-agent swarm that audits LLMs against global regulatory standards.**
+*   **Orchestration**: Built a parallel **fan-out / fan-in** state graph using **LangGraph** to process evaluations concurrently across four agents.
+*   **Specialist Agents**: Configured Legal (RAG-backed regulations database), Privacy (PII scanning), Bias (toxicity scoring), and Red-Teaming (adversarial jailbreak simulation) nodes.
+*   **Vector Database**: Implemented **FAISS** vector indexes over a 40+ policy regulation corpus (EU AI Act, GDPR, NIST, ISO 42001).
+*   **Artifact Generation**: Automatically compiles overall compliance scores and risk parameters into a downloadable **AI Compliance Passport (PDF)**.
+*   🛠️ *Tech Stack: Python, LangGraph, Groq Cloud (Llama 3.3), FAISS, Streamlit, Docker, FPDF2.*
+*   🔗 **[View Project Repository](https://github.com/Gedendhar-5/govagent-compliance-auditor)**
 
 ---
 
-## 📊  Journalist Source Protector — AI Redaction System
-
-AI-powered document redaction system for automated PII masking, identity protection, and risk-based safety scoring of leaked documents..
-
-🔗 [View Project Repository](https://github.com/Gedendhar-5/journalist-source-protector-document--redaction)
-
----
-
-## 📊 F1 Race Prediction ML Model
-
-ML-powered Formula 1 prediction system using real-time qualifying data, weather telemetry, and driver performance analytics for Grand Prix outcome forecasting.
-
-🔗  [View Project Repository](https://github.com/Gedendhar-5/-f1-race-prediction-ml)
+### 📊 2. AI-Powered BI Dashboard
+> **Automated data analytics suite that cleans data, generates dashboards, extracts insights, and computes forecasts in a single click.**
+*   **One-Click Analytics**: Allows users to upload raw Excel or CSV datasets and automatically run end-to-end data cleaning pipelines.
+*   **Predictive Modeling**: Computes statistical forecasts and generates interactive visualizations and summaries.
+*   🛠️ *Tech Stack: Python, Pandas, Streamlit, Scikit-Learn, Plotly.*
+*   🔗 **[View Project Repository](https://github.com/Gedendhar-5/AI-Powered-BI-Dashboard)**
 
 ---
 
-# 💼 Experience
-
-## Geometry Technologies — Software Engineer
-
-- Built scalable NLP pipelines in Python
-- Developed AI-powered backend systems
-- Worked with AWS cloud infrastructure
-- Automated internal workflows
+### 🛡️ 3. Journalist Source Protector — AI Document Redaction System
+> **Secure document redaction tool designed to protect whistleblowers and sensitive sources.**
+*   **PII Masking**: Leveraged advanced NLP Named Entity Recognition (NER) models to locate and mask private entities (names, addresses, locations, emails).
+*   **Risk Scoring**: Evaluates the potential security leak level of documents using a risk-based safety metrics matrix.
+*   🛠️ *Tech Stack: Python, Transformers, NLP NER, Streamlit, Document Parsing.*
+*   🔗 **[View Project Repository](https://github.com/Gedendhar-5/journalist-source-protector-document--redaction)**
 
 ---
 
-# 🏆 Certifications
-
-- AWS Certified Solutions Architect – Associate
-- Python Programming – Google | Coursera
-- Agile Methodology Virtual Experience – JPMorgan Chase
-- Claude in Actions -Claude
+### 🛠️ 4. Claude Skill Set (Master Prompt Formula)
+> **Custom Claude capabilities implementing advanced prompt-engineering frameworks for structured generation.**
+*   **Framework Implementation**: Implemented the **RCTFCE** (Role, Context, Task, Format, Constraint, Example) prompt engineering framework.
+*   **Structured Outputs**: Built optimized prompt templates to enforce deterministic outputs from Anthropic Claude models.
+*   🛠️ *Tech Stack: Claude API, System Prompts, Prompt Engineering, JSON Schema.*
+*   🔗 **[View Project Repository](https://github.com/Gedendhar-5/master-prompt-formula)**
 
 ---
+
+### 📊 5. AI DevOps Co-Pilot
+> **Autonomous AI observability platform for real-time root cause analysis and infrastructure self-healing.**
+*   **Telemetry Observability**: Monitors target clusters for logs, metrics, and threshold violations.
+*   **Self-Healing**: Automated LLM-driven actions to orchestrate remediation playbooks and recover failing systems.
+*   🛠️ *Tech Stack: Python, LangChain, Kubernetes API, Groq, Logging Observability.*
+*   🔗 **[View Project Repository](https://github.com/Gedendhar-5/ai-devops-copilot)**
+
+---
+
+### 💬 6. AI Log Analyzer
+> **Generative AI log analysis conversational agent for developers and systems engineers.**
+*   **Fast API Backend**: Created a lightweight, async API layer using **FastAPI** to feed log inputs into an LLM analysis engine.
+*   **Root Cause Analysis (RCA)**: Classifies logs in real-time, extracts trace errors, and provides detailed code fix suggestions.
+*   🛠️ *Tech Stack: FastAPI, Groq API (Llama 3), LangChain, Python.*
+*   🔗 **[View Project Repository](https://github.com/Gedendhar-5/AI-Log-Analyzer)**
+
+---
+
+### 🏁 7. F1 Race Prediction ML Model
+> **Predictive analytics engine for Formula 1 Grand Prix classification and outcome forecasting.**
+*   **Telemetry Processing**: Ingests weather conditions, historical lap times, qualifyings, and driver telemetry attributes.
+*   **ML Pipeline**: Built regression and classification models to forecast podium results and race trends.
+*   🛠️ *Tech Stack: Python, Pandas, Scikit-Learn, LightGBM, Data Engineering.*
+*   🔗 **[View Project Repository](https://github.com/Gedendhar-5/-f1-race-prediction-ml)**
+
+---
+
+### 💼 8. AI Career Co-Pilot
+> **Generative AI tool for resume optimization, automated matching, and career positioning.**
+*   **RAG Optimization**: Scans resume profiles against job descriptions to suggest custom prompt-based improvements.
+*   🛠️ *Tech Stack: Python, OpenAI ChatGPT, LangChain, RAG.*
+*   🔗 **[View Project Repository](https://github.com/Gedendhar-5/AI-Career-Copilot)**
+
+<br/>
+
+---
+
+## 💼 Professional Trajectory
+
+### **Geometry Technologies** — *Software Engineer*
+*   **Scalable NLP Pipelines**: Architected high-performance natural language processing pipelines in Python to process unstructured text at scale.
+*   **Robust Backends**: Developed, tested, and optimized microservices and RESTful API endpoints for core enterprise products.
+*   **AWS Infrastructure**: Deployed and managed serverless and containerized applications using Amazon Web Services (AWS) ECS, Lambda, and S3.
+*   **Workflow Automation**: Automated internal developer loops and CI/CD procedures, boosting engineering efficiency by 30%.
+
+<br/>
+
+---
+
+## 🏆 Certifications & Achievements
+
+*   🎓 **AWS Certified Solutions Architect – Associate** (Amazon Web Services)
+*   📜 **Python Programming** (Google | Coursera)
+*   💼 **Agile Methodology Virtual Experience** (JPMorgan Chase)
+*   🤖 **Claude in Action** (Anthropic Claude Frameworks)
+
+<br/>
+
+---
+
+## 📊 Git Statistics
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gedendhar-5&show_icons=true&theme=tokyonight&count_private=true" alt="Gedendhar's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedendhar-5&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🤝 Connect & Collaborate
+
+Let's discuss Multi-Agent Systems, RAG architecture, LLM Security, or Python Backends.
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gedendhar-s-23b22a197/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-gedendhar-s.vercel.app/#home)
+
+</div>

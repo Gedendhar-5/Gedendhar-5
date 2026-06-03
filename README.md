@@ -64,6 +64,13 @@ Results-driven **AI/ML Engineer** and **Python Developer** specializing in enter
 ![](https://img.shields.io/badge/Render-Cloud_Hosting-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### **🚀 AI Development Partners & Large Language Models**
+![](https://img.shields.io/badge/Antigravity-Agentic_Co--Pilot-4A154B?style=for-the-badge&logo=google&logoColor=white)
+![](https://img.shields.io/badge/Gemini_AI-Google_DeepMind-8E24AA?style=for-the-badge&logo=google-gemini&logoColor=white)
+![](https://img.shields.io/badge/Claude-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![](https://img.shields.io/badge/ChatGPT-OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Perplexity-Research_Engine-22D3EE?style=for-the-badge&logo=perplexity&logoColor=white)
+
 </div>
 
 <br/>
@@ -83,6 +90,19 @@ Results-driven **AI/ML Engineer** and **Python Developer** specializing in enter
 *   🛠️ *Tech Stack: Python, LangGraph, Groq Cloud (Llama 3.3), FAISS, Streamlit, Docker, FPDF2.*
 *   🔗 **[View Project Repository](https://github.com/Gedendhar-5/govagent-compliance-auditor)**
 
+```mermaid
+graph LR
+    A["⚙️ Ingest Application Config"] --> B["🧭 LangGraph Orchestration"]
+    B --> C1["🏛️ Legal Agent (FAISS RAG)"]
+    B --> C2["🔒 Privacy Agent (PII Scan)"]
+    B --> C3["⚖️ Bias Agent (Toxicity Eval)"]
+    B --> C4["🔴 Red-Team Agent (Jailbreak)"]
+    C1 & C2 & C3 & C4 --> D["👔 Chief Compliance Officer"]
+    D --> E["📄 AI Passport PDF"]
+    style B fill:#1c3c3c,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#4a154b,stroke:#333,stroke-width:2px,color:#fff
+```
+
 ---
 
 ### 📊 2. AI-Powered BI Dashboard
@@ -91,6 +111,16 @@ Results-driven **AI/ML Engineer** and **Python Developer** specializing in enter
 *   **Predictive Modeling**: Computes statistical forecasts and generates interactive visualizations and summaries.
 *   🛠️ *Tech Stack: Python, Pandas, Streamlit, Scikit-Learn, Plotly.*
 *   🔗 **[View Project Repository](https://github.com/Gedendhar-5/AI-Powered-BI-Dashboard)**
+
+```mermaid
+graph LR
+    In["Raw Data (CSV/Excel)"] --> Clean["🧹 Auto-Data Cleaning (Pandas)"]
+    Clean --> Forecast["📈 Predictive ML Forecasting (Scikit-Learn)"]
+    Forecast --> Insights["💡 Insights Generator (GenAI)"]
+    Insights --> UI["📊 Live Plotly Dashboard"]
+    style Clean fill:#121013,stroke:#333,color:#fff
+    style UI fill:#ff4b4b,stroke:#333,color:#fff
+```
 
 ---
 
@@ -101,6 +131,16 @@ Results-driven **AI/ML Engineer** and **Python Developer** specializing in enter
 *   🛠️ *Tech Stack: Python, Transformers, NLP NER, Streamlit, Document Parsing.*
 *   🔗 **[View Project Repository](https://github.com/Gedendhar-5/journalist-source-protector-document--redaction)**
 
+```mermaid
+graph LR
+    Doc["Whistleblower Doc"] --> NER["🔍 Named Entity Recognition (NER)"]
+    NER --> Mask["🔒 Token Masking & Redaction"]
+    Mask --> Risk["📉 Security Safety Score Assessment"]
+    Risk --> Out["📄 Redacted Safe PDF"]
+    style NER fill:#8a2be2,stroke:#333,color:#fff
+    style Risk fill:#e94560,stroke:#333,color:#fff
+```
+
 ---
 
 ### 🛠️ 4. Claude Skill Set (Master Prompt Formula)
@@ -109,6 +149,16 @@ Results-driven **AI/ML Engineer** and **Python Developer** specializing in enter
 *   **Structured Outputs**: Built optimized prompt templates to enforce deterministic outputs from Anthropic Claude models.
 *   🛠️ *Tech Stack: Claude API, System Prompts, Prompt Engineering, JSON Schema.*
 *   🔗 **[View Project Repository](https://github.com/Gedendhar-5/master-prompt-formula)**
+
+```mermaid
+graph TD
+    Raw["User Request"] --> RCTFCE["📐 Apply RCTFCE Engine"]
+    RCTFCE --> System["📝 Compile System Message"]
+    System --> Inference["🤖 Anthropic Claude Execution"]
+    Inference --> Format["🎯 Strict Structured JSON Output"]
+    style RCTFCE fill:#46e3b7,stroke:#333,color:#000
+    style Format fill:#0467df,stroke:#333,color:#fff
+```
 
 ---
 
@@ -119,6 +169,16 @@ Results-driven **AI/ML Engineer** and **Python Developer** specializing in enter
 *   🛠️ *Tech Stack: Python, LangChain, Kubernetes API, Groq, Logging Observability.*
 *   🔗 **[View Project Repository](https://github.com/Gedendhar-5/ai-devops-copilot)**
 
+```mermaid
+graph LR
+    Metric["📡 Cluster Telemetry Logs"] --> Detect["🔍 Anomaly Detection Engine"]
+    Detect --> Reason["🧠 LLM Root Cause Analysis (RCA)"]
+    Reason --> Recover["🛠️ Remediation Orchestrator"]
+    Recover --> Repair["✅ Self-Healing Actions executed"]
+    style Reason fill:#1C3C3C,stroke:#333,color:#fff
+    style Recover fill:#ff5722,stroke:#333,color:#fff
+```
+
 ---
 
 ### 💬 6. AI Log Analyzer
@@ -127,6 +187,16 @@ Results-driven **AI/ML Engineer** and **Python Developer** specializing in enter
 *   **Root Cause Analysis (RCA)**: Classifies logs in real-time, extracts trace errors, and provides detailed code fix suggestions.
 *   🛠️ *Tech Stack: FastAPI, Groq API (Llama 3), LangChain, Python.*
 *   🔗 **[View Project Repository](https://github.com/Gedendhar-5/AI-Log-Analyzer)**
+
+```mermaid
+graph LR
+    Logs["App Logs Ingest"] --> Fast["⚡ FastAPI Endpoint"]
+    Fast --> LC["⚙️ LangChain Extraction Node"]
+    LC --> Model["🤖 Llama 3 (Groq API) Analysis"]
+    Model --> Suggest["💡 Root Cause + Fix Script"]
+    style Fast fill:#00d2ff,stroke:#333,color:#000
+    style Model fill:#8a2be2,stroke:#333,color:#fff
+```
 
 ---
 

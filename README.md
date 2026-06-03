@@ -316,29 +316,13 @@ graph LR
 
 <div align="center">
 
-### **📈 Core Metrics & Repository Stats (Live Fallback)**
+### **📈 Core Metrics & Repository Stats**
 
 | Metric | Value | Code Distribution |
 | :--- | :--- | :--- |
 | 🗄️ **Public Repositories** | **10** | 🐍 **Python**: `████████████████████ 100.0%` |
 | 👥 **Followers** | **0** | ⚙️ **Markup/Markdown**: `0.0%` |
 | 🤝 **Following** | **0** | 🌐 **Primary Domain**: Generative AI / LLMOps / Backend |
-
-<br/>
-
-### **📡 Live Dynamic Cards**
-*(Note: May not render in local markdown viewers without internet access)*
-
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gedendhar-5&show_icons=true&theme=tokyonight&count_private=true" alt="Gedendhar's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedendhar-5&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 </div>
 

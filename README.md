@@ -36,7 +36,7 @@ Results-driven **AI/ML Engineer** and **Python Developer** specializing in enter
 
 ### **💻 Core Tech Stack**
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,aws,docker,fastapi,flask,git,github,postgres,mongodb,vscode,render" />
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,fastapi,flask,git,github,vscode,render" />
 </a>
 
 <br/><br/>
